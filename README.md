@@ -6,18 +6,31 @@ This is dummy data sourced from Kaggle, useful for educational and analysis purp
 
 ## Column Details:
 order_id: (int64) Unique identifier for each order.
+
 date: (datetime64) Date when the order was placed.
+
 Month: (object) Month of the year when the sale occurred.
+
 Day: (object) Day of the week when the sale occurred.
+
 Year: (int64) Year in which the sale was made.
+
 item_name: (object) Name of the food or beverage sold.
+
 item_type: (object) Type of item sold (e.g., Fastfood, Beverages).
+
 item_price: (int64) Price of the individual item.
+
 quantity: (int64) Number of units sold in the order.
+
 transaction_amount: (int64) Total transaction amount.
+
 transaction_type: (object) Payment method (Cash/Online).
+
 received_by: (object) Gender of the person who received the order.
+
 time_of_sale: (object) Time of day (e.g., Night, Evening).
+
 City: (object) City where the sale took place.
 
 
